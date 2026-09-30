@@ -1,0 +1,6 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    # Add project specific lint rules here.
+    # See https://dart.dev/tools/linter-rules for a list of all rules.

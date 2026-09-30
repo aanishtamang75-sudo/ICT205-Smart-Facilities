@@ -1,0 +1,27 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "anish-auth-bio",
+          "appId": "1:397080095735:android:d4f8c2ade2d4f2226bdcf2",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "anish-auth-bio",
+          "configurations": {
+            "android": "1:397080095735:android:d4f8c2ade2d4f2226bdcf2"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "storage": {
+    "rules": "storage.rules"
+  }
+}

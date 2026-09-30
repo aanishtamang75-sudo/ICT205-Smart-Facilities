@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "397080095735",
+    "project_id": "anish-auth-bio",
+    "storage_bucket": "anish-auth-bio.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397080095735:android:d4f8c2ade2d4f2226bdcf2",
+        "android_client_info": {
+          "package_name": "com.example.personal_bio_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKtnGFMOy8VZtfP71mIZwvQYghhYzuAQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
